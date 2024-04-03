@@ -1,0 +1,40 @@
+body {
+    font-size: 15pt;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXBjSK7iogtIHLmwikLTLjbTfb2i9rw1fm8h_eGmJRw&s); 
+}
+
+.register {
+  background-image: url(none);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  max-width: 350px;
+  padding: 10px;
+  border-radius: 4px;
+  border: 3px solid black;
+  margin-top: 130px;
+}
+
+label {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+h4 {
+  color: white;
+  margin-top: 100px;
+}
+
+input {
+  display: inline-block;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  border: 2px solid;
+  margin: 10px 0;
+}
