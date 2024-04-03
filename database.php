@@ -1,5 +1,5 @@
 <?php 
-$con=new mysqli("23.88.73.88","u2262204_kRuSKisP7u","uJUC0xHDVjFO9Y=H8J=GNcWf","s2262204_sox");
+$con=new mysqli("192.168.254.109","root","root","roblox");
 
 $username=$_POST['username'];
 $password=$_POST['password'];
